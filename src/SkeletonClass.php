@@ -2,10 +2,10 @@
 
 namespace Chriscubos\PackageSkeleton;
 
-class PackageSkeletonClass
+class SkeletonClass
 {
     /**
-     * Create a new PackageSkeleton Instance
+     * Create a new PackageSkeleton Instance.
      */
     public function __construct()
     {
@@ -13,7 +13,7 @@ class PackageSkeletonClass
     }
 
     /**
-     * Friendly welcome
+     * Friendly welcome.
      *
      * @param string $phrase Phrase to return
      *
